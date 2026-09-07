@@ -1,0 +1,39 @@
+h2 {
+	background-image: linear-gradient(to left, red, yellow);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@font-face {
+	font-family: myFont;
+	src: url();
+}
+
+h3 {
+	color:rgb(0, 17, 255);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+	color: black;
+}
+
+h5 {
+	color:darkmagenta;
+	font-family: cursive;
+	text-shadow: 2px 2px rgb(43, 255, 0);
+}
+
+p {
+	color:black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-color: bisque;
+}
+
+button {
+	color: rgb(94, 255, 0);
+	background-color: chocolate;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
